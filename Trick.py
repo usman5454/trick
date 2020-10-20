@@ -116,12 +116,12 @@ _____
                     
 \x1b[1;97m--------------------------------------------------------------
 \x1b[1;94mâž£  YouTube  : TECHNICAL USMAN TRICK
-\x1b[1;94mâž£  Facebook : Usman Shehbaz
-\x1b[1;94mâž£  Note     : COMMANDS MAKER TECHNICAL USMAN TRICK
-\x1b[1;94mâž£  Github   : https://github.com/Usman5454
-\x1b[1;94mâž£  Whatsapp : 
-\x1b[1;94mâž£  Note     : Having Problem? Contact ME ON INSTAGRAM
-\x1b[1;94mâž£  Disclamiar : This Is For Educational Purpose Only.
+\x1b[1;95mâž£  Facebook : Usman Shehbaz
+\x1b[1;96mâž£  Note     : COMMANDS MAKER TECHNICAL USMAN TRICK
+\x1b[1;97mâž£  Github   : https://github.com/Usman5454
+\x1b[1;98mâž£  Whatsapp : 
+\x1b[1;92mâž£  Note     : Having Problem? Contact ME ON INSTAGRAM
+\x1b[1;91mâž£  Disclamiar : This Is For Educational Purpose Only.
 \x1b[1;97m--------------------------------------------------------------"""
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -469,15 +469,16 @@ def pilih_super():
 		
 	p = ThreadPool(50)
 	p.map(main, id)
-	print "\033[1;97m---------------------------------------------------"
+	print "\033[1;92m---------------------------------------------------"
 	
-	print '\033[1;97mProcess Has Been Completed.'
-	print"\033[1;97m-----------------"
-	print"\033[1;97mTotal OK/\x1b[1;97mCP \033[1;97m: \033[1;97m"+str(len(oks))+"\033[1;97m/\033[1;97m"+str(len(cekpoint))
-	print "\033[1;97m---------------------------------------------------"
+	print '\033[1;93mProcess Has Been Completed.'
+	print"\033[1;94m-----------------"
+	print"\033[1;95mTotal OK/\x1b[1;97mCP \033[1;97m: \033[1;97m"+str(len(oks))+"\033[1;97m/\033[1;97m"+str(len(cekpoint))
+	print "\033[1;96m---------------------------------------------------"
 	
 	
-	raw_input("\n\033[1;93m[\033[1;96mBack\033[1;93m]")
+	raw_input("\n\033[1;94m[\033[1;92mBack\033[1;93m]")
+		
 	menu()
 
 if __name__ == '__main__':
